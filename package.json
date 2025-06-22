@@ -1,5 +1,8 @@
 {
   "name": "estimageddon",
   "version": "0.0.1",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
 }
